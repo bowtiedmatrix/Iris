@@ -1,0 +1,415 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"n_features"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"model",
+				"model_selection"
+			],
+			[
+				"on",
+				"one_hot"
+			],
+			[
+				"en",
+				"encoded_y"
+			],
+			[
+				"to",
+				"to_categorical"
+			],
+			[
+				"np",
+				"np_utils"
+			],
+			[
+				"evaluate",
+				"evaluate_model"
+			],
+			[
+				"as",
+				"asarray"
+			],
+			[
+				"row",
+				"row_num"
+			],
+			[
+				"spl",
+				"split_sequence"
+			],
+			[
+				"e",
+				"end_ix"
+			],
+			[
+				"st",
+				"start_ix"
+			],
+			[
+				"m",
+				"make_dataset"
+			],
+			[
+				"w",
+				"w_variance"
+			],
+			[
+				"W-",
+				"W-Variance"
+			],
+			[
+				"band",
+				"band_powers"
+			],
+			[
+				"b",
+				"b_powers"
+			],
+			[
+				"fin",
+				"final_dataset"
+			],
+			[
+				"df",
+				"df_3"
+			],
+			[
+				"get",
+				"get_psd"
+			],
+			[
+				"seg",
+				"seg_data"
+			],
+			[
+				"beta",
+				"beta_alpha_ratio"
+			],
+			[
+				"max",
+				"maxi"
+			],
+			[
+				"ca",
+				"calculate_theta"
+			],
+			[
+				"calculate",
+				"calculate_gamma"
+			],
+			[
+				"calcul",
+				"calculate_delta"
+			],
+			[
+				"calculate_",
+				"calculate_beta"
+			],
+			[
+				"calc",
+				"calculate_alpha"
+			],
+			[
+				"th",
+				"th_directory"
+			],
+			[
+				"t",
+				"t_directory"
+			],
+			[
+				"z",
+				"z_directory"
+			],
+			[
+				"fre",
+				"freqs"
+			],
+			[
+				"segme",
+				"segment_name"
+			],
+			[
+				"se",
+				"seg_name"
+			],
+			[
+				"f",
+				"f_new"
+			],
+			[
+				"f_",
+				"f_counter"
+			],
+			[
+				"p",
+				"p_num"
+			],
+			[
+				"list",
+				"list_dir"
+			],
+			[
+				"zer",
+				"zero_indices"
+			],
+			[
+				"d",
+				"directory2"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"ker",
+				"kernel_initializer"
+			],
+			[
+				"L",
+				"LSTM"
+			],
+			[
+				"o",
+				"o_count"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"Lab",
+				"LabelEncoder"
+			],
+			[
+				"cro",
+				"cross_val"
+			],
+			[
+				"cross",
+				"cross_val_score"
+			],
+			[
+				"mode",
+				"model_selection"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"lo",
+				"loaded32"
+			],
+			[
+				"l",
+				"loaded31"
+			],
+			[
+				"load",
+				"loaded28"
+			],
+			[
+				"la",
+				"loaded25"
+			],
+			[
+				"loa",
+				"loaded19"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Nyambura/Documents/Vernon's assignment/Assignment.py",
+		"/C/Users/Nyambura/Documents/Vernon's assignment/Assignment",
+		"/C/Users/Nyambura/Downloads/Code Task 1.ipynb",
+		"/C/Users/Nyambura/Documents/University work/Year 3/CE301/Final Year Project/DL models/CNN.py",
+		"/C/Users/Nyambura/Documents/University work/Year 3/CE301/Final Year Project/Traditional models/SVM.py",
+		"/C/Users/Nyambura/Documents/University work/Year 3/CE301/Final Year Project/pre_processing.py",
+		"/C/Users/Nyambura/Documents/University work/Year 3/CE301/Final Year Project/Traditional models/Logistic_Regression.py",
+		"/C/Users/Nyambura/Documents/University work/Year 3/CE301/Final Year Project/Zeros_Segments/participant1_trial5_channel1_zero_segment1.txt",
+		"/C/Users/Nyambura/Documents/University work/Year 3/CE301/Final Year Project/Zeros_Segments/zero_segment1.txt",
+		"/C/Users/Nyambura/Documents/University work/Year 3/CE301/Final Year Project/Formatting_Input.py",
+		"/C/Users/Nyambura/Documents/University work/Year 3/CE301/Final Year Project/Traditional models/Random_Forest.py",
+		"/C/Users/Nyambura/Documents/University work/Year 3/CE301/Final Year Project/Traditional models/Naive_Bayes.py",
+		"/C/Users/Nyambura/Documents/University work/Year 3/CE301/Final Year Project/DL models/FNN.py",
+		"/C/Program Files/Sublime Text 3/python3.3.zip",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Users/Nyambura/Documents/University work/Year 3/CE301/Final Year Project/DL models/three_layer_MLP.py",
+		"/C/Users/Nyambura/Documents/University work/Year 3/CE301/Final Year Project/DL models/three_layer_MLP"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "IrisClassification.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
