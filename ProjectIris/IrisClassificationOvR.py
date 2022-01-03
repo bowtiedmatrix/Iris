@@ -30,9 +30,6 @@ counter = Counter(data['Species'])
 
 # logistic regression for multi-class classification using built-in one-vs-rest
 
-# define the model
-model = LogisticRegression(multi_class='ovr', max_iter = 1000)
-
 # define the dataset
 x = data.drop(['Species', 'PetalLengthCm', 'PetalWidthCm'], axis=1)
 y = data['Species']
@@ -45,11 +42,13 @@ for label in y:
 		label = 2
 
 
-x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=1, shuffle=True)
+x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.33, random_state=1, shuffle=True)
 scale = StandardScaler()
 x_train = scale.fit_transform(x_train)
 x_test = scale.transform(x_test)
-model.fit(x, y)
+
+# define the model
+model = LogisticRegression(multi_class='ovr', max_iter = 1000)
 
 # fit model
 model.fit(x_train, y_train)
